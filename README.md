@@ -101,7 +101,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Sumit Khetre**
+**Shrinivas Chilme*
 
-GitHub: https://github.com/sumitkhetre20
+GitHub: https://github.com/ShrinivasChilme
 "# Home4Pet" 
